@@ -1,0 +1,94 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "Xtats-master",
+            "cwd": "Flutter\\Xtats-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Xtats-master (profile mode)",
+            "cwd": "Flutter\\Xtats-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Xtats-master (release mode)",
+            "cwd": "Flutter\\Xtats-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "xtats001",
+            "cwd": "Flutter\\xtats001",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "xtats001 (profile mode)",
+            "cwd": "Flutter\\xtats001",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "xtats001 (release mode)",
+            "cwd": "Flutter\\xtats001",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Xtats-master",
+            "cwd": "Flutter\\Xtats-master\\Xtats-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Xtats-master (profile mode)",
+            "cwd": "Flutter\\Xtats-master\\Xtats-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Xtats-master (release mode)",
+            "cwd": "Flutter\\Xtats-master\\Xtats-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "xtats001",
+            "cwd": "Flutter\\xtats001\\xtats001",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "xtats001 (profile mode)",
+            "cwd": "Flutter\\xtats001\\xtats001",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "xtats001 (release mode)",
+            "cwd": "Flutter\\xtats001\\xtats001",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
